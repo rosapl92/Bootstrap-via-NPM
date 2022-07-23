@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-via-npm",
+  "version": "1.0.0",
+  "description": "some description",
+  "main": "index.js",
+  "scripts": {
+   "sass": "sass assets/main.scss:assets/main.built.css"
+  },
+  "author": "Rosa Palermo",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "css-minify": "^2.0.0",
+    "dart-sass": "^1.25.0",
+    "postcss": "^8.4.14",
+    "postcss-cli": "^10.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
