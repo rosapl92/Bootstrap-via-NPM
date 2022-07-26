@@ -10635,4 +10635,18 @@ body {
   background-color: skyblue;
 }
 
+.card-deck {
+  background-color: #3dd5f3;
+}
+.card-deck .card .card-header {
+  background-color: #0a53be;
+}
+.card-deck .card .card-body {
+  background-color: #4c86dc;
+}
+
+footer {
+  background-color: white;
+}
+
 /*# sourceMappingURL=main.built.css.map */
